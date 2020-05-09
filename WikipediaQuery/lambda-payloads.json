@@ -1,0 +1,7 @@
+{
+    "WikipediaQuery": {
+        "lambda": {
+            "entity": "google"
+        }
+    }
+}
